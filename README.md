@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-CS undergraduate student trying to do something with LLMs :) Reach out to me at btdixon@emory.edu
-
-Pronouns: he/him/they/them
+## CS undergraduate student trying to do something with LLMs! Reach out to me at **btdixon@emory.edu**.
 
 
 <!--**cookiefox387/cookiefox387** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
