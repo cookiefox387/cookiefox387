@@ -1,4 +1,4 @@
-### Hi there 👋
+### (⊙‿⊙)
 
 ## CS undergraduate student trying to do something with LLMs! Reach out to me at **btdixon@emory.edu**.
 
