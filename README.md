@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-<!--
-**cookiefox387/cookiefox387** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS undergraduate student trying to do something with LLMs :) Reach out to me at btdixon@emory.edu
+
+Pronouns: he/him/they/them
+
+
+<!--**cookiefox387/cookiefox387** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,9 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https//pbs.twimg.com/media/E3h_p5fX0AMBU6a.jpg">
- <source media="(prefers-color-scheme: light)" srcset="[https//pbs.twimg.com/media/E3h_p5fX0AMBU6a.jpg)">
- <img alt="YOUR-ALT-TEXT" src="https//pbs.twimg.com/media/E3h_p5fX0AMBU6a.jpg">
-</picture>
