@@ -1,7 +1,8 @@
 ### (⊙‿⊙)
 
-## CS undergraduate student trying to do something with LLMs! Reach out to me at **btdixon@emory.edu**.
+## Reach out to me at **btdixon@emory.edu**.
 
+# Currently utilizing Haystack framework to deploy extractive-QA system.
 
 <!--**cookiefox387/cookiefox387** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
